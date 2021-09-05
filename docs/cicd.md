@@ -8,7 +8,7 @@
 
 
 <h3>Continuous integration</h3>
-Continuous integration means an automated testing process. A successful CI leads to the transition of new code changes to the production.
+Continuous Integration is a way for software project programmers to integrate their code into a version control system. The way of working also includes unit testing of the code.
 
 <h3>Continuous Deployment</h3>
 Continuous deployment (CD) mean the automatic releasing of changes made by the developers, from the development version to production, where it is available to customers.
