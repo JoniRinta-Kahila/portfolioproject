@@ -23,7 +23,7 @@
     * ```npx create-react-app . --template typescript```
     * Once the React is initialized, test it by running command ```npm run start```
     * If everything works as expected, the browser will open and you will see the react logo in it.
-6. initialize the CI/CD pipeline
+6. Initialize the CI/CD pipeline
    * See [docs/cicd](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/cicd.md)
 7. Commit your filechanges, then push.
 
