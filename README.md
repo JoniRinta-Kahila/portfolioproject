@@ -29,3 +29,27 @@
 
 <h4>Start creation with TypeScript</h4>
 
+1. The first step is to delete unnecessary files from the project. Delete the following files
+      * src/App.css
+      * src/index.css
+      * logo.svg
+2. Open index.tsx file and remove imports from deleted files.
+3. Open App.tsx file
+4. Replace all in App.tsx with
+```tsx
+// App.tsx
+import React from 'react'
+import MyFirstComponent from './components/myFirstComponent';
+
+const App: React.FC = () => {
+  return (
+    <div>
+      <MyFirstComponent />
+    </div>
+  )
+}
+
+export default App
+
+```
+
