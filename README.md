@@ -5,6 +5,7 @@
 * React web frontend
 * Typescript template
 * Functional React components
+* SASS (syntactically awesome style sheets)
 * CI/CD pipeline for GitHub pages
 
 <h3>Workflow :</h3>
@@ -25,3 +26,6 @@
 6. initialize the CI/CD pipeline
    * See [docs/cicd](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/cicd.md)
 7. Commit your filechanges, then push.
+
+<h4>Start creation with TypeScript</h4>
+
