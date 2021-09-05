@@ -42,7 +42,7 @@ jobs:
 
 The part ```on: [push]``` means, when you push your code changes next time, GitHub will run these jobs in actions. If these jobs succeed, this script create a new branch ```gh-pages``` in your project repository, and deploy your build to GitHub pages. 
 * ```gh-pages``` branch is build version of your project.
-* Your project page is available in https://[YourGitHubName].github.io/[YourRepositoryName]
+* Your project page is available in ```https://[YourGitHubName].github.io/[YourRepositoryName]```
 
 <h3>Attention</h3>
 
