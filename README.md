@@ -50,6 +50,9 @@ const App: React.FC = () => {
 }
 
 export default App
-
 ```
+5. Now the error ```Cannot find module './components/myFirstComponent' or its corresponding type declarations.``` appear
+      * To fix it, create a folder at the ```./src``` and name it to ```components```
+      * Create new file ```myFirstComponent.tsx``` in ```./src/components```
+
 
