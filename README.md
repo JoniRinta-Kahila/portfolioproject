@@ -12,7 +12,7 @@
 
 <h4>Initialize project</h4>
 
-1. Create new GitHub Repository
+1. Create new GitHub Repository using [this template link](https://github.com/JoniRinta-Kahila/portfolioproject/generate)
     * Name the repo to portfolio, etc.
     * Do not use a hyphen in the repository name. (hyphen in the url breaks the gh-pages)
     * Use only lowercase letters in the repository name. (```create-react-app``` doesn't like uppercase letters)
