@@ -12,6 +12,7 @@
 1. Create new GitHub Repository
     * Name the repo to portfolio, etc.
     * Do not use a hyphen in the repository name. (hyphen in the url breaks the gh-pages)
+    * Use only lowercase letters in the repository name. (```create-react-app``` doesn't like uppercase letters)
     * See docs/github.md
 3. Clone your new repository to local
 4. Create new React project with ```npx``` command. Remember use ```--template typescript```
