@@ -9,4 +9,5 @@
 
 <h3>Continuous integration</h3>
 
-<h3>Continuous delivery</h3>
+<h3>Continuous Deployment</h3>
+Continuous deployment (CD) mean the automatic releasing of changes made by the developers, from the development version to production, where it is available to customers.
