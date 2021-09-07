@@ -8,5 +8,5 @@
 
 <b>Remember to commit your code changes and push it to GitHub server</b>
 
-## [<-- BACK TO PART 2](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md) ...... [GO TO PART 4 -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/router.md)
+## [<-- BACK TO PART 2](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/sass.md) ...... [GO TO PART 4 -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/router.md)
 
