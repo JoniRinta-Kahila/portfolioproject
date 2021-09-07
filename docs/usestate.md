@@ -1,1 +1,8 @@
+<h1>React.useState hook</h1>
+
+1. Create new component ``clickCount.tsx``.
+2. Create click counter using [THIS](https://reactjs.org/docs/hooks-intro.html) example.
+3. Add a new style class to Asd by creating a new style file.
+4. Change the background color of the container.
+5. Center the click counter button & value in the center of the Container
 
