@@ -28,8 +28,8 @@
 
 ```sass
 .container {
-   width: 100%;
-   height 450px;
-   background: #1abc9c;
+   width: 100%,
+   height 450px,
+   background: #1abc9c,
 }
 ```
