@@ -44,6 +44,8 @@ The part ```on: [push]``` means, when you push your code changes next time, GitH
 * ```gh-pages``` branch is build version of your project.
 * Your project page is available in ```https://[YourGitHubName].github.io/[YourRepositoryName]```
 
+4. In ``package.json`` file, add a new line to the beginning of the object and add ``"homepage": ".",`` to it.
+
 <h3>Attention</h3>
 
 * <b>When you push code changes first time, with this yml file, it can take up to hours before your gh pages are available.</b>
