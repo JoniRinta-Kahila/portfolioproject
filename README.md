@@ -94,3 +94,4 @@ export default MyFirstComponent
 * [TypeScript docs](https://www.typescriptlang.org/docs/)
 * [React docs](https://reactjs.org/docs/hello-world.html)
 
+## [Open part 2 -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/sass.md)
