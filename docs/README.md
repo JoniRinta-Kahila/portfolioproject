@@ -16,7 +16,7 @@
     * Name the repo to portfolio, etc.
     * Set repo to public.
     * Do not use a hyphen in the repository name. (hyphen in the url breaks the gh-pages)
-    * Use only lowercase letters in the repository name. (```create-react-app``` doesn't like uppercase letters)
+    * Use only lowercase letters in the repository name.
     <!-- * See [docs/github.md](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/github.md) -->
 3. Clone your new repository to local
     * Open cmd or terminal in the file path of your choice
