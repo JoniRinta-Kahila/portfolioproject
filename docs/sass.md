@@ -14,6 +14,11 @@
     * Import style file, placing ```import styles from './example.module.scss'``` to the top of the ``someExampleComponent.tsx``
     * Replace all HTML in your example components return statement with HTML code at the end of this file.
         * You can see the ```className={styles.container}``` part in ``div`` element, it is a style reference to the style class of the sass file you imported.
+    * Paste style class from end of this file to your components style file.
+    * Now open ``App.tsx`` file and import this example component.
+        * ```import MyFirstComponent from './components/myFirstComponent';```
+    * Now you can use this new component, just like html!
+        * in App.tsx, add ``<SomeExampleComponent />`` between divs.
     
 <h4>HTML</h4>
 
