@@ -2,7 +2,7 @@
 
 1. Create new component ``clickCount.tsx``. Then initialize the component pattern using ``fcr`` snippet.
 2. Create click counter using [THIS](https://reactjs.org/docs/hooks-intro.html) example.
-3. Add a new style class to Asd by creating a new style file.
+3. Add a new style class to your component by creating a new style file ``clickCount.module.scss``.
 4. Change the background color of the container.
 5. Center the click counter button & value in the center of the Container.
 
