@@ -85,7 +85,7 @@ export default MyFirstComponent
 
 <h3>Tips</h3>
 
-1. Visual Studio Code snippets
+1. Visual Studio Code Snippets
       * Snippets help you write code faster.
       * See [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
 
