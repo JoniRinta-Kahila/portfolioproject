@@ -56,3 +56,5 @@
   }
 }
 ```
+
+## [<-- BACK TO PART 1](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/README.md) ...... [GO TO PART 3 -->](https://github.com/JoniRinta-Kahila/portfolioproject/edit/main/docs/usestate.md)
