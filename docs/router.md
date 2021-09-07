@@ -64,5 +64,8 @@ import {
 5. In HTML in App.tsx, set the correct style class for the navigation component.
 6. In Router component, set basename to your repo name
 
+<h3>Documentations</h3>
+
+[react-router-dom](https://reactrouter.com/web/guides/primary-components)
 
 ## [<-- BACK TO PART 3](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md) ...... [GO TO PART 5 -->](https://github.com/)
