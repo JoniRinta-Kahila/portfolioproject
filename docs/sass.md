@@ -33,8 +33,26 @@
 
 ```sass
 .container {
-   width: 100%,
-   height: 450px,
-   background: #1abc9c,
+  width: 100%;
+  height: 450px;
+  background: #1abc9c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    font-size: 52px;
+    color: azure;
+    text-shadow: 2px 2px #7860ff;
+  }
+
+  p {
+    font-weight: 700;
+    font-size: 25px;
+    color: rgb(206, 255, 255);
+    background: rgb(255, 0, 200);
+    padding: 10px;
+  }
 }
 ```
