@@ -1,4 +1,4 @@
-<h1>Props</h1>
+<h1>Part 4. Props</h1>
 
 Props are like a mixture of HTML attributes and JavaScript function parameters. Props are necessary when you need to transfer data between the parent component and the child component.
 
@@ -82,3 +82,6 @@ const MyApp: React.FC<MyAppProps> = () => {
 export default MyApp
 
 ```
+
+## [<-- BACK TO PART 3](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md) ...... [GO TO PART 5 -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/router.md)
+
