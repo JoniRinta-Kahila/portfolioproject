@@ -4,7 +4,8 @@
 2. Create click counter using [THIS](https://reactjs.org/docs/hooks-intro.html) example.
 3. Add a new style class to your component by creating a new style file ``clickCount.module.scss``.
 4. Change the background color of the container.
-5. Center the click counter button & value in the center of the Container.
+5. Center the click counter button & value to the center of the Container.
+6. Import and place click counter component to ``App.tsx``
 
 <b>Remember to commit your code changes and push it to GitHub server</b>
 
