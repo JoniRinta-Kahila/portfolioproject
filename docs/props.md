@@ -29,6 +29,8 @@ export default Greeting
 
 ```
 
+greeting-component usage with props ``<Greeting name='Jaakko' lastName='Kulta' />``
+
 ```typescript
 //myApp.tsx
 import React, { useState } from 'react'
