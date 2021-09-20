@@ -85,11 +85,14 @@ export default MyFirstComponent
 
 7. Run command ``npm run start`` again to see the changes.
 
-<h3>Tips</h3>
-
-1. Visual Studio Code Snippets
+8. Visual Studio Code Snippets
       * Snippets help you write code faster.
       * See [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
+9. Remember to commit & push your code changes to github!
+   * ```git status``` show list of your project status
+   * ```git add .``` add any new or modified files to the index.
+   * ```git commit -a -m "commit message"``` make changes locally. Add a comment describing the changes
+   * ```git push``` push your saved changes to the server
 
 <h3>Documentations</h3>
 
