@@ -36,7 +36,7 @@
 
 <h4>Start creation with TypeScript</h4>
 
-1. The first step is to delete unnecessary files from the project. Delete the following files
+1. The first step is to open the project in **Visual Studio Code** and delete unnecessary files from the project. Delete the following files
       * src/App.css
       * src/index.css
       * logo.svg
