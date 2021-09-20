@@ -39,7 +39,7 @@
 1. The first step is to open the project in **Visual Studio Code** and delete unnecessary files from the project. Delete the following files
       * src/App.css
       * src/index.css
-      * logo.svg
+      * src/logo.svg
 2. Open index.tsx file and remove imports from deleted files.
 3. Open App.tsx file
 4. Replace all in App.tsx with
