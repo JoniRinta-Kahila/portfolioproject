@@ -12,7 +12,7 @@
 
 <h4>Initialize project</h4>
 
-1. Create new GitHub Repository using [this template link](https://github.com/new)
+1. Create new GitHub Repository. [Click to create new repository](https://github.com/new)
     * Name the repo to portfolio, etc.
     * Set repo to public.
     * Do not use a hyphen in the repository name. (hyphen in the url breaks the gh-pages)
