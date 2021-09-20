@@ -19,6 +19,7 @@
         * ```import SomeExampleComponent from './components/example/someExampleComponent';```
     * Now you can use this new component, just like HTML!
         * in App.tsx, place ``<SomeExampleComponent />`` between divs.
+3. Now you can check the results, run command ``npm run start``again
     
 <h4>HTML</h4>
 
