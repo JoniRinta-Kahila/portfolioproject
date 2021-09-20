@@ -83,6 +83,8 @@ export default MyFirstComponent
 
 ```
 
+7. Run command ``npm run start`` again to see the changes.
+
 <h3>Tips</h3>
 
 1. Visual Studio Code Snippets
