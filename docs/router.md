@@ -61,8 +61,7 @@ import {
       * in navbar class, set display to flex,
       * in navbar class, set flex-direction to column.
 4. In App.tsx, import stylefile.
-5. In HTML in App.tsx, set the correct style class for the navigation component.
-6. In Router component, set basename to your repo name
+5. In Router component, set basename to your repo name
 
 <h3>Documentations</h3>
 
