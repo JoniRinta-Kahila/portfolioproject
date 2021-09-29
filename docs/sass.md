@@ -8,7 +8,7 @@
 2. Create example component
     * Create a new folder in ``./components``. Name folder to ``example``
     * Create a new file ``someExampleComponent.tsx`` in ``./components/example``
-    * Create a new file inside a ``./components/sassExample`` and name it to ``someExampleComponent.module.scss``
+    * Create a new file inside a ``./components/example`` and name it to ``someExampleComponent.module.scss``
     * Open the someExampleComponent.tsx file and use your ``fcr`` code snippet and save.
         * see [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
     * Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the ``someExampleComponent.tsx``
