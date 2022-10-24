@@ -2,17 +2,17 @@
 
 <h3>Workflow</h3>
 
-1. Install node-sass npm package
-    * Open commanddline at the root of the project (Your project root is the same folder where your package.json file is.)
-    * use command ```npm install node-sass```
+1. Install Dart Sass npm package
+     * Open commandline at the root of the project (Your project root is the same folder where your package.json file is.)
+     * use command ```npm install sass```
 2. Create example component
-    * Create a new folder in ``./components``. Name folder to ``example``
-    * Create a new file ``someExampleComponent.tsx`` in ``./components/example``
-    * Create a new file inside a ``./components/example`` and name it to ``someExampleComponent.module.scss``
-    * Open the someExampleComponent.tsx file and use your ``fcr`` code snippet and save.
+   * Create a new folder in ``./components``. Name folder to ``example``
+   * Create a new file ``someExampleComponent.tsx`` in ``./components/example``
+   * Create a new file inside a ``./components/example`` and name it to ``someExampleComponent.module.scss``
+   * Open the someExampleComponent.tsx file and use your ``fcr`` code snippet and save.
         * see [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
-    * Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the ``someExampleComponent.tsx``
-    * Replace all HTML in your example components return statement with HTML code at the end of this file.
+   * Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the ``someExampleComponent.tsx``
+   * Replace all HTML in your example components return statement with HTML code at the end of this file.
         * You can see the ```className={styles.container}``` part in ``div`` element, it is a style reference to the style class of the sass file you imported.
     * Paste style class from end of this file to your components style file.
     * Now open ``App.tsx`` file and import this example component.
