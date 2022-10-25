@@ -40,17 +40,13 @@ import {
 
 <h3>STYLES</h3>
 
-1. Create new style file ``./src/App.module.scss``.
+1. Create new style file ``./index.module.scss``.
 2. Create new styleclass ``body``,
       * set margin to 0.
-3. Create new styleclass ``.navbar``,
-      * in navbar class, set display to flex,
-      * in navbar class, set flex-direction to column.
-4. In App.tsx, import stylefile.
-5. In Router component, set basename to your repo name
+3. In index.tsx, import index styles ``import ./index.module.scss``
 
 <h3>Documentations</h3>
 
-[react-router-dom](https://reactrouter.com/web/guides/primary-components)
+[react-router-dom]([https://reactrouter.com/web/guides/primary-components](https://reactrouter.com/en/v6.3.0/getting-started/overview))
 
-## [<-- BACK TO PART 4](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/props.md) ...... [GO TO PART 5 -->](https://github.com/)
+## [<-- BACK TO PART 4](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/props.md) ...... [GO TO PART 6 -->](https://github.com/)
