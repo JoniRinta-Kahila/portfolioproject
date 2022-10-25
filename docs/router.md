@@ -7,49 +7,35 @@ These components allows us to develope a single-page web application with naviga
 <h3>Install react-router-dom npm package</h3>
 
 1. Open a commandline at the root of the project.
-2. Run command ``npm install react-router-dom@5.2.1``
-    * ``@5.2.1`` represents the package version
-3. Run command ``npm i --save-dev @types/react-router-dom``
-    * Sometimes we need to install package types too
-    * ``--save-dev`` flag mark package to the dev dependencies. the dev dependencies are not included in the build.
+2. Run command ``npm install react-router-dom@6.4.2``
+    * ``@6.4.2`` represents the package version
 
 <h3>Import react-router-dom</h3>
 
-1. Open App.tsx
+1. Open index.tsx
 2. Import react-router-dom components
 
 ```tsx
 import {
-  BrowserRouter as Router,
-  Switch,
+  BrowserRouter,
+  Routes,
   Route,
-  Link
-} from 'react-router-dom';
+} from "react-router-dom";
 ```
 
 <h3>HTML</h3>
 <b>Replace all the HTML in the component with the code below</b>
 
 ```html
-    // Important! add your repositoryname to basename
-    <Router basename='/YourRepoNameHere'>
-      
-      {/* The navigation bar and other components you want to display on all pages come here */}
-      <div className={styles.navbar}>
-        <Link to='/'>Front page</Link>
-        <Link to='example'>Look my example component</Link>
-      </div>
-
-      <Switch>
-        {/* Changing content comes here */}
-        <Route exact path='/' component={MyFirstComponent} />
-        <Route exact path='/example' component={SomeExampleComponent}/>
-      </Switch>
-
-      {/* The footer and other components you want to display on all pages come here */}
-      <ClickCounter />
-
-    </Router>
+   <React.StrictMode>
+    <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<App />}></Route>
+        <Route path='example' element={<SomeExampleComponent />} />
+        <Route path='/first' element={<MyFirstComponent />} />
+      </Routes>
+    </BrowserRouter>
+  </React.StrictMode>
 ```
 
 <h3>STYLES</h3>
