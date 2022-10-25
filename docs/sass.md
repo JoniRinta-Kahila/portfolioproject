@@ -1,4 +1,4 @@
-<h1>Part-2. Add node-sass to project</h3>
+<h1>Part-2. Add Dart sass to project</h3>
 
 <h3>Workflow</h3>
 
