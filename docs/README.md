@@ -2,7 +2,7 @@
 <h3>Technical requirements</h3>
 
 * Personal GitHub account
-* React web frontend
+* Responsive React web frontend
 * Typescript template
 * Functional React components
 * SASS (syntactically awesome style sheets)
