@@ -59,4 +59,4 @@
 }
 ```
 
-## [<-- BACK TO PART 1](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/README.md) ...... [GO TO PART 3 (HOOKS) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md)
+## [<-- BACK TO PART 1](portfolioproject/) ...... [GO TO PART 3 (HOOKS) -->](portfolioproject/usestate.md)
