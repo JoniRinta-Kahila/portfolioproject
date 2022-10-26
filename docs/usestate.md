@@ -19,5 +19,5 @@ More about hooks: https://reactjs.org/docs/hooks-reference.html
 
 <b>Remember to commit your code changes and push it to GitHub server</b>
 
-## [<-- BACK TO PART 2  (SASS)](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/sass.md) ...... [GO TO PART 4 (PROPS) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/props.md)
+## [<-- BACK TO PART 5  (ROUTER)](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/navbar.md) ...... [GO TO PART 4 (PROPS) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/props.md)
 
