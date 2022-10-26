@@ -83,5 +83,5 @@ export default MyApp
 
 ```
 
-## [<-- BACK TO PART 3](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md) ...... [GO TO PART 5 -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/router.md)
+## [<-- BACK TO PART 3 (HOOKS)](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md) ...... [GO TO PART 5 (ROUTER) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/router.md)
 
