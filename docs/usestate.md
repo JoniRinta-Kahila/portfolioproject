@@ -19,5 +19,5 @@ More about hooks: https://reactjs.org/docs/hooks-reference.html
 
 <b>Remember to commit your code changes and push it to GitHub server</b>
 
-## [<-- BACK TO PART 2  (SASS)](portfolioproject/sass) ...... [GO TO PART 4 (PROPS) -->](portfolioproject/props)
+## [<-- BACK TO PART 2  (SASS)](sass) ...... [GO TO PART 4 (PROPS) -->](props)
 

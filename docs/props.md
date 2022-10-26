@@ -83,5 +83,5 @@ export default MyApp
 
 ```
 
-## [<-- BACK TO PART 3 (HOOKS)](portfolioproject/usestate) ...... [GO TO PART 5 (ROUTER) -->](portfolioproject/router)
+## [<-- BACK TO PART 3 (HOOKS)](usestate) ...... [GO TO PART 5 (ROUTER) -->](router)
 

@@ -9,4 +9,4 @@
     * `<Link to="/">Home</Link>` `<Link to="first">My First Component</Link>`
 6. In index file, set your Navbar component between the BrowserRouter and Router elements.
 
-## [<-- BACK TO PART 5 (ROUTER)](portfolioproject/router) ...... [GO TO PART 7 (PROJECT) -->](portfolioproject/portfolio)
+## [<-- BACK TO PART 5 (ROUTER)](router) ...... [GO TO PART 7 (PROJECT) -->](portfolio)

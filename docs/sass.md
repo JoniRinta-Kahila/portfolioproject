@@ -59,4 +59,4 @@
 }
 ```
 
-## [<-- BACK TO PART 1](portfolioproject/) ...... [GO TO PART 3 (HOOKS) -->](portfolioproject/usestate.md)
+## [<-- BACK TO PART 1](/) ...... [GO TO PART 3 (HOOKS) -->](usestate)

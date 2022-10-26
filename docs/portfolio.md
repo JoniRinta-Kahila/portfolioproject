@@ -37,4 +37,4 @@
   * https://www.codecademy.com/learn/learn-html
   * \> GOOGLE <
 
-## [<-- BACK TO PART 6 (ROUTER)](portfolioproject/navbar)
+## [<-- BACK TO PART 6 (ROUTER)](navbar)

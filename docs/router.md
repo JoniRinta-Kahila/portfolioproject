@@ -50,4 +50,4 @@ import {
 
 [react-router-dom]([https://reactrouter.com/web/guides/primary-components](https://reactrouter.com/en/v6.3.0/getting-started/overview))
 
-## [<-- BACK TO PART 4](portfolioproject/props) ...... [GO TO PART 6 (Navbar) -->](portfolioproject/navbar)
+## [<-- BACK TO PART 4](props) ...... [GO TO PART 6 (Navbar) -->](navbar)
