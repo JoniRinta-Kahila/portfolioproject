@@ -1,4 +1,4 @@
-<h1>Part 5. react-router-dom 2/2</h1>
+<h1>Part 6. react-router-dom 2/2</h1>
 <h3>Router Links</h3>
 
 1. Create new folder `./src/components/navbar`
@@ -9,4 +9,4 @@
     * `<Link to="/">Home</Link>` `<Link to="first">My First Component</Link>`
 6. In index file, set your Navbar component between the BrowserRouter and Router elements.
 
-## [<-- BACK TO PART 5 (ROUTER)](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/README.md) ...... [GO TO PART 3 (PROJECT) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md)
+## [<-- BACK TO PART 5 (ROUTER)](https://github.com/JoniRinta-Kahila/portfolioproject/blob/master/docs/router.md) ...... [GO TO PART 7 (PROJECT) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md)
