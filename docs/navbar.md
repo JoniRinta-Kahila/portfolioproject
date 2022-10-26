@@ -8,3 +8,5 @@
 5. Between the div tags, add three Link components, and for each link give `to` attribute to point your links to the `/`, `first` and `example` pages
     * `<Link to="/">Home</Link>` `<Link to="first">My First Component</Link>`
 6. In index file, set your Navbar component between the BrowserRouter and Router elements.
+
+## [<-- BACK TO PART 5 (ROUTER)](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/README.md) ...... [GO TO PART 3 (PROJECT) -->](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/usestate.md)
