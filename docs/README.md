@@ -43,6 +43,7 @@
 2. Open index.tsx file and remove imports from deleted files.
 3. Open App.tsx file
 4. Replace all in App.tsx with
+
 ```tsx
 // App.tsx
 import React from 'react'
