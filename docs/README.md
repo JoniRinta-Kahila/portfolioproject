@@ -64,6 +64,7 @@ export default App
       * Create new file ```myFirstComponent.tsx``` in ```./src/components```
 
 6. In the ```./src/components/myFirstComponent.tsx``` paste next code in it and save.
+
 ```tsx
 import React from 'react'
 
