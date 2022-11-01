@@ -6,7 +6,7 @@ Code snippets are templates that make it easier to enter repeating code patterns
 https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets
 
 
-1. Create new code scippet and name it to ```react.code-snippets```
+1. Create new code snippet and name it to ```react.code-snippets```
 2. Paste following snippet script in react.code-snippets file & save it.
 3. Test the script by writing ```fcr``` to a new tsx file and press enter.
 
