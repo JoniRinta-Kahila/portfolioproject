@@ -7,7 +7,7 @@ You can easily define your own snippets without any extension. To create or edit
 https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets
 
 
-1. Create a new code snippet in Visual Studio Code - Code/File > Preferences ... (see above) and name it to ```react.code-snippets```
+1. Create a new code snippet in Visual Studio Code - <b>Code/File > Preferences ... </b> (see above) and name it to ```react.code-snippets```
 2. Paste the following snippet script in react.code-snippets file & save it.
 3. Test the script by writing ```fcr``` to a new tsx file and press enter.
 
