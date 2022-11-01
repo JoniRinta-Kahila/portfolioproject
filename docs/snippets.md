@@ -3,7 +3,7 @@
 Code snippets are templates that make it easier to enter repeating code patterns, speeding up your code writing. In Visual Studio Code, snippets appear in IntelliSense (Ctrl+Space) mixed with other suggestions.
 
 You can easily define your own snippets without any extension. To create or edit your own snippets, select in Visual Studio Code - <br>
-Code/File > Preferences > Configure User Snippets > New Global Snippets file...
+<b>Code/File > Preferences > Configure User Snippets > New Global Snippets file...</b>
 https://code.visualstudio.com/docs/editor/userdefinedsnippets#_create-your-own-snippets
 
 
