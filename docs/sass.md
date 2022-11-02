@@ -20,7 +20,7 @@
     * Now you can use this new component, just like HTML!
         * in <b>App.tsx</b>, place ``<SomeExampleComponent />`` between the div tags.
 3. Now you can check the results, run command ``npm run start``again
-4. Remember to commit & push the project to the GitHub.
+4. Remember to add, commit & push the project to the GitHub.
     
 <h4>HTML</h4>
 
