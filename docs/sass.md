@@ -12,7 +12,7 @@
    * Open the <b>someExampleComponent.tsx</b> file and use your ``fcr`` code snippet and save.
         * see [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
    * Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the <b>someExampleComponent.tsx</b>
-   * Replace all HTML in your example components return statement with HTML code at the end of this file.
+   * Replace all HTML code in your example components return statement with the HTML code at the end of this file.
         * You can see the ```className={styles.container}``` part in ``div`` element, it is a style reference to the style class of the sass file you imported.
     * Paste the style class from end of this file to your components sass style file (<b>.scss</b>).
     * Now open <b>App.tsx</b> file and import this example component.
