@@ -26,6 +26,7 @@
     * ```npx create-react-app@latest . --template typescript```
     * Once the React is initialized, test it by running command ```npm run start```
     * If everything works as expected, the browser will open and you will see the react logo in it.
+    * If there comes a warning about vulnerabilities, do not try to fix them using any ``` Audit fix ``` commands, since those errors will not affect to your final React app
 7. Initialize the CI/CD pipeline
    * See [docs/cicd](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/cicd.md)
 8. Commit your filechanges, then push.
