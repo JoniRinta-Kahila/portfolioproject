@@ -2,8 +2,8 @@
 
 <h3>Workflow</h3>
 
-1. Install Dart Sass npm package
-     * Open commandline at the root of the project (Your project root is the same folder where your package.json file is.)
+1. Install <b>Dart Sass npm</b> package
+     * Open commandline at the root of the project (Your project root is the same folder where your <b>package.json</b> file is.)
      * use command ```npm install sass```
 2. Create example component
    * Create a new folder in ``./components``. Name folder to ``example``
@@ -18,7 +18,7 @@
     * Now open ``App.tsx`` file and import this example component.
         * ```import SomeExampleComponent from './components/example/someExampleComponent';```
     * Now you can use this new component, just like HTML!
-        * in App.tsx, place ``<SomeExampleComponent />`` between divs.
+        * in <b>App.tsx</b>, place ``<SomeExampleComponent />`` between divs.
 3. Now you can check the results, run command ``npm run start``again
 4. Remember to commit & push the project to the GitHub.
     
