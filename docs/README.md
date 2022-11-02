@@ -22,7 +22,7 @@
     * Open cmd or terminal in the file path of your choice
     * Run command ```git clone [link to your git-repo]```
 5. **Open the project folder in terminal**
-6. Create new React project with ```npx``` command.
+6. Create a new React project with ```npx``` command.
     * ```npx create-react-app@latest . --template typescript```
     * Once the React is initialized, test it by running command ```npm run start```
     * If everything works as expected, the browser will open and you will see the react logo in it.
