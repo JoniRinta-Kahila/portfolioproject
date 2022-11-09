@@ -24,9 +24,9 @@
 5. **Open the project folder in terminal**
 6. Create a new React project with ```npx``` command.
     * ```npx create-react-app@latest . --template typescript```
+         * >__Warning__ If there comes a warning about vulnerabilities, DON'T try to fix them using any - <b>Audit fix</b> - commands, since those errors will not affect to your final React app, but fixing breaks the current React version.
     * Once the React is initialized, test it by running command ```npm run start```
     * If everything works as expected, the browser will open and you will see the react logo in it.
-    * NOTICE! if there comes a warning about vulnerabilities, DON'T try to fix them using any - Audit fix - commands, since those errors will not affect to your final React app, but fixing breaks the current React version.
 7. Initialize the CI/CD pipeline
    * See [docs/cicd](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/cicd.md)
 8. Commit your filechanges, then push.
