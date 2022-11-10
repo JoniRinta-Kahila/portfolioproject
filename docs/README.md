@@ -32,7 +32,7 @@
 8. Commit your filechanges, then push.
    * ```git status``` show list of your project status
    * ```git add .``` add any new or modified files to the index.
-   * ```git commit -a -m "commit message"``` make changes locally. Add a comment describing the changes
+   * ```git commit -m "commit message"``` make changes locally. Add a comment describing the changes
    * ```git push``` push your saved changes to the server
 
 <h4>Start creation with TypeScript</h4>
