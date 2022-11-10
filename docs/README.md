@@ -12,14 +12,14 @@
 
 <h4>Initialize project</h4>
 
-1. Create new GitHub Repository. [Click to create new repository](https://github.com/new)
-    * Name the repo to portfolio, etc.
-    * Set repo to public.
-    * Do not use a hyphen in the repository name. (hyphen in the url breaks the gh-pages)
+1. Create new <b>GitHub Repository</b>. [Click to create new repository](https://github.com/new)
+    * Name the repo to e.g. <b>portfolio</b>.
+    * Set repo to <b>Public</b>.
+    * <strong style="color: red">Do not use a hyphen (-) in the repository name.</strong> (hyphen in the url breaks the gh-pages)
     * Use only lowercase letters in the repository name.
     <!-- * See [docs/github.md](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/github.md) -->
 3. Clone your new repository to local
-    * Open cmd or terminal in the file path of your choice
+    * Open <b>cmd or terminal</b> in the file path of your choice
     * Run command ```git clone [link to your git-repo]```
 5. **Open the project folder in terminal**
 6. Create a new React project with ```npx``` command.
@@ -38,12 +38,12 @@
 <h4>Start creation with TypeScript</h4>
 
 1. The first step is to open the project in **Visual Studio Code** and delete unnecessary files from the project. Delete the following files
-      * src/App.css
+      * <b>src/App.css
       * src/index.css
-      * src/logo.svg
-2. Open index.tsx file and remove imports from deleted files.
-3. Open App.tsx file
-4. Replace all in App.tsx with
+      * src/logo.svg</b>
+2. Open <b>index.tsx</b> file and remove imports from deleted files.
+3. Open <b>App.tsx</b> file
+4. Replace all contents in <b>App.tsx</b> with
 
 ```tsx
 // App.tsx
