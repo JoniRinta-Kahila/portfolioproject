@@ -38,9 +38,9 @@
 <h4>Start creation with TypeScript</h4>
 
 1. The first step is to open the project in **Visual Studio Code** and delete unnecessary files from the project. Delete the following files
-      * <b>src/App.css
-      * src/index.css
-      * src/logo.svg</b>
+      * <b>src/App.css</b>
+      * <b>src/index.css</b>
+      * <b>src/logo.svg</b>
 2. Open <b>index.tsx</b> file and remove imports from deleted files.
 3. Open <b>App.tsx</b> file
 4. Replace all contents in <b>App.tsx</b> with
