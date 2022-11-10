@@ -28,7 +28,7 @@
     * Once the React is initialized, test it by running command ```npm run start```
     * If everything works as expected, the browser will open and you will see the react logo in it.
 7. Initialize the CI/CD pipeline
-   * See [docs/cicd](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/cicd.md)
+   * See <b>[docs/cicd](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/cicd.md)</b>
 8. Commit your filechanges, then push.
    * ```git status``` show list of your project status
    * ```git add .``` add any new or modified files to the index.
