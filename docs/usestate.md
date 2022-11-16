@@ -15,7 +15,7 @@
 2. Use useEffect hook to print to the console ``Clicked the button ${count} times`` every time, when value of ``count`` has changed.
     * useEffect examples <b>[HERE](https://dev.to/trunghieu99tt/you-don-t-know-useeffect-4j9h)</b>
 
-More about hooks: https://reactjs.org/docs/hooks-reference.html
+More about hooks: https://reactjs.org/docs/hooks-reference.html 
 
 <b>Remember to commit your code changes and push it to GitHub server</b>
 
