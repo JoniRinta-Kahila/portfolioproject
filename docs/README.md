@@ -1,4 +1,4 @@
-<h1>React portfolio</h1>
+<h1>React portfolio</h1> <strong style="color: red">[Back to clean Web version, click here](https://jonirinta-kahila.github.io/portfolioproject/)</strong>
 <h3>Technical requirements</h3>
 
 * Personal GitHub account
