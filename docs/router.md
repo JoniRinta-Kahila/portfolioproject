@@ -42,10 +42,10 @@ import {
 
 <h3>STYLES</h3>
 
-1. Create a new style file ``./index.module.scss``.
+1. Create a new style file ``index.module.scss`` in your src folder where your <b>index.tsx</b> file is.
 2. Create a new styleclass ``body``,
       * set margin to 0.
-3. In index.tsx, import index styles ``import ./index.module.scss``
+3. In <b>index.tsx</b>, import your index styles ``import ./index.module.scss``
 4. Now you can test your new links `localhost:3000/`, `localhost:3000/example`, `localhost:3000/first`
 
 <h3>Documentations</h3>
