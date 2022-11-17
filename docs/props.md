@@ -56,7 +56,7 @@ const MyApp: React.FC<MyAppProps> = () => {
           type='text'
           {/* set input value to value of name */}
           value={name}
-          {/* using onChange event to set name, every time whent value of input has changed */}
+          {/* using onChange event to set name, every time when value of input has changed */}
           onChange={ (event) => setName(event.target.value) }
         />
       </label>
