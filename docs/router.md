@@ -9,6 +9,7 @@ These components allows us to develope a single-page web application with naviga
 1. Open a commandline at the root of the project.
 2. Run command ``npm install react-router-dom@6.4.2``
     * ``@6.4.2`` represents the package version
+    * <strong style="color: red">Warning! If there comes a warning about vulnerabilities, DON'T try to fix them using any - <b>Audit fix</b> - commands, since those errors will not affect to your final React app, but fixing breaks the current React version. </strong>
 
 <h3>Import react-router-dom</h3>
 
