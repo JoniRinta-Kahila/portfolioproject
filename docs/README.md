@@ -1,5 +1,7 @@
 <h1>React portfolio</h1>
 
+[Open part 2 (SASS) =>](sass)
+
 [Back to clean Web version, click here](https://jonirinta-kahila.github.io/portfolioproject/)
 
 <h3>Technical requirements</h3>
@@ -105,4 +107,4 @@ export default MyFirstComponent
 * [TypeScript docs](https://www.typescriptlang.org/docs/)
 * [React docs](https://reactjs.org/docs/hello-world.html)
 
-## [Open part 2 (SASS) -->](sass)
+## [Open part 2 (SASS) =>](sass)
