@@ -1,5 +1,7 @@
 <h1>Part-2. Add Dart sass to project</h1>
 
+[<= BACK TO PART 1](/portfolioproject) ... [GO TO PART 3 (HOOKS) =>](usestate)
+
 <h3>Workflow</h3>
 
 1. Install <b>Dart Sass npm</b> package
@@ -59,4 +61,4 @@
 }
 ```
 
-## [<-- BACK TO PART 1](/portfolioproject) ...... [GO TO PART 3 (HOOKS) -->](usestate)
+## [<= BACK TO PART 1](/portfolioproject) ... [GO TO PART 3 (HOOKS) =>](usestate)
