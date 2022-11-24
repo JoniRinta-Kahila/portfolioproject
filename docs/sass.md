@@ -6,9 +6,9 @@
      * Open commandline at the root of the project (Your project root is the same folder where your <b>package.json</b> file is.)
      * use command ```npm install sass```
 2. Create example component
-   * Create a new folder in ``./components``. Name folder to ``example``
-   * Create a new file ``someExampleComponent.tsx`` in ``./components/example``
-   * Create a new file inside a ``./components/example`` and name it to ``someExampleComponent.module.scss``
+   1. Create a new folder in ``./components``. Name the folder to ``example``
+   2. Create a new file ``someExampleComponent.tsx`` in ``./components/example``
+   3. Create a new file inside a ``./components/example`` and name it to ``someExampleComponent.module.scss``
    * Open the <b>someExampleComponent.tsx</b> file and use your ``fcr`` code snippet and save.
         * see [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
    * Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the <b>someExampleComponent.tsx</b>
