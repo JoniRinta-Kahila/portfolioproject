@@ -9,15 +9,15 @@
    1. Create a new folder in ``./components``. Name the folder to ``example``
    2. Create a new file ``someExampleComponent.tsx`` in ``./components/example``
    3. Create a new file inside a ``./components/example`` and name it to ``someExampleComponent.module.scss``
-   * Open the <b>someExampleComponent.tsx</b> file and use your ``fcr`` code snippet and save.
+   4. Open the <b>someExampleComponent.tsx</b> file and use your ``fcr`` code snippet and save.
         * see [docs/snippets](https://github.com/JoniRinta-Kahila/portfolioproject/blob/main/docs/snippets.md)
-   * Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the <b>someExampleComponent.tsx</b>
-   * Replace all HTML code in your example components return statement with the HTML code at the end of this file.
+   5. Import style file, placing ```import styles from './someExampleComponent.module.scss'``` to the top of the <b>someExampleComponent.tsx</b>
+   6. Replace all HTML code in your example components return statement with the HTML code at the end of this file.
         * You can see the ```className={styles.container}``` part in ``div`` element, it is a style reference to the style class of the sass file you imported.
-    * Paste the style class from end of this file to your components sass style file (<b>.scss</b>).
-    * Now open <b>App.tsx</b> file and import this example component.
+   7. Paste the style class from end of this file to your components sass style file (<b>.scss</b>).
+   8. Now open <b>App.tsx</b> file and import this example component.
         * ```import SomeExampleComponent from './components/example/someExampleComponent'```
-    * Now you can use this new component, just like HTML!
+   9. Now you can use this new component, just like HTML!
         * in <b>App.tsx</b>, place ``<SomeExampleComponent />`` between the div tags.
 3. Now you can check the results, run command ``npm run start``again
 4. Remember to <b>add, commit & push </b>your project to the GitHub.
