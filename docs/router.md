@@ -52,6 +52,6 @@ Move your mouse over the error and use Quick Fix to add the correct imports.
 
 <h3>Documentations</h3>
 
-[react-router-dom]([https://reactrouter.com/web/guides/primary-components](https://reactrouter.com/en/v6.3.0/getting-started/overview))
+[react-router-dom](https://reactrouter.com/web/guides/primary-components)
 
 ## [<-- BACK TO PART 4](props) ...... [GO TO PART 6 (Navbar) -->](navbar)
