@@ -33,7 +33,7 @@ import {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<App />}></Route>
-        <Route path='example' element={<SomeExampleComponent />} />
+        <Route path='/example' element={<SomeExampleComponent />} />
         <Route path='/first' element={<MyFirstComponent />} />
       </Routes>
     </BrowserRouter>
