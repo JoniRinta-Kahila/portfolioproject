@@ -1,5 +1,7 @@
 <h1>Part 4. Props</h1>
 
+[<= BACK TO PART 3 (HOOKS)](usestate) ... [GO TO PART 5 (ROUTER) =>](router)
+
 Props are like a mixture of HTML attributes and JavaScript function parameters. Props are necessary when you need to transfer data between the parent component and the child component.
 
 The following example has two components: **myApp** and **greeting**. myApp-component represents the parent component and greeting-component represents the child component.
@@ -83,5 +85,5 @@ export default MyApp
 
 ```
 
-## [<-- BACK TO PART 3 (HOOKS)](usestate) ...... [GO TO PART 5 (ROUTER) -->](router)
+## [<= BACK TO PART 3 (HOOKS)](usestate) ... [GO TO PART 5 (ROUTER) =>](router)
 
