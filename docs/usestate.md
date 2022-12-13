@@ -1,5 +1,7 @@
 <h1>Part 3. React hooks</h1>
 
+[<= BACK TO PART 2  (SASS)](sass) ... [GO TO PART 4 (PROPS) =>](props)
+
 <h3>React.useState</h3>
 
 1. Create new component ``clickCount.tsx``. Then initialize the component pattern using ``fcr`` snippet.
@@ -19,5 +21,5 @@ More about hooks: <b>[https://reactjs.org/docs/hooks-reference.html](https://rea
 
 <b>Remember to commit your code changes and push it to GitHub server</b>
 
-## [<-- BACK TO PART 2  (SASS)](sass) ...... [GO TO PART 4 (PROPS) -->](props)
+## [<= BACK TO PART 2  (SASS)](sass) ... [GO TO PART 4 (PROPS) =>](props)
 
